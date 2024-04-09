@@ -1,0 +1,4 @@
+name: Minecraft_Hammers
+version: '${project.version}'
+main: minecraft_hammers.minecraft_hammers.Minecraft_Hammers
+api-version: 1.19
